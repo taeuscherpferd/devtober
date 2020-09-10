@@ -1,2 +1,2 @@
 # devtober
-everyday of October a new widget themed mini program :D
+everyday of October a new themed mini program :D
